@@ -1,0 +1,20 @@
+watchlist:
+  - BTCUSDT
+  - ETHUSDT
+  - BNBUSDT
+
+portfolio:
+  BTCUSDT: 0.05
+  ETHUSDT: 1.2
+  BNBUSDT: 15.0
+
+risk_flags:
+  max_concentration: 0.40
+  high_volatility_pct: 5.0
+  drawdown_alert_pct: 10.0
+
+decision:
+  rebalance_buffer_pct: 2.0
+
+report:
+  title: "NEXUS — Autonomous Crypto CFO Brief"
